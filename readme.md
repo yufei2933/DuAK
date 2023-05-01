@@ -11,5 +11,5 @@ Download the knowledge graph dataset [NELL-995](http://cs.ucsb.edu/~xwhan/datase
 python main.py --dataset 0 --relation 0
 
 ## Acknowledgement
-DeepPath: https://github.com/xwhan/DeepPath
+DeepPath: https://github.com/xwhan/DeepPath\n
 MemoryPath
