@@ -1,0 +1,1 @@
+bsub < test_task.sh -o test_task_%J -e test_task_err_%J
