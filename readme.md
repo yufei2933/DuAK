@@ -12,4 +12,4 @@ python main.py --dataset 0 --relation 0
 
 ## Acknowledgement
 DeepPath: https://github.com/xwhan/DeepPath 
-\\ MemoryPath
+\MemoryPath
